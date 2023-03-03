@@ -1,5 +1,5 @@
 # Machine learning Algorithms:
-## Determining the performance of Decision tree, Random forest, Naive bayas, and Perceptron algorithms by using confusion matrix and k-fold cross validation. **
+## Determining the performance of Decision tree, Random forest, Naive bayas, and Perceptron algorithms by using confusion matrix and k-fold cross validation. 
 
                                                            (Figure 1)
 
